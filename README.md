@@ -72,10 +72,13 @@ Feel free to fork this repository and submit pull requests for improvements or a
 
 This project is open source and available for educational purposes.
 
-## Author
+## 👤 About the Author
+I am Amit Yadav, a Aspiring Data Analyst!
+Connect with Me
 
-Created as a learning resource for Python data visualization with Matplotlib.
-
+LinkedIn:www.linkedin.com/in/amit-yadav-3408a2308
+GitHub: https://github.com/mr-amit-yadav
+Email: amit.y21c@gmail.com
 ---
-
+⭐ If you find this repository helpful, please consider giving it a star!
 Happy plotting! 📊📈
