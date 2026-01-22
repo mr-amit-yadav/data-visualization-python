@@ -76,9 +76,10 @@ This project is open source and available for educational purposes.
 I am Amit Yadav, a Aspiring Data Analyst!
 Connect with Me
 
-LinkedIn:www.linkedin.com/in/amit-yadav-3408a2308
-GitHub: https://github.com/mr-amit-yadav
-Email: amit.y21c@gmail.com
+<p align="center">
+  <strong>📧 Email:</strong> amit.y21c@gmail.com <br>
+  <strong>🔗 LinkedIn:</strong> <a href="www.linkedin.com/in/amit-yadav-3408a2308">linkedin.com/in/yourprofile</a>
+</p>
 ---
 ⭐ If you find this repository helpful, please consider giving it a star!
 Happy plotting! 📊📈
