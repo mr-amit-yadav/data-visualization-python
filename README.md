@@ -80,6 +80,6 @@ Connect with Me
   <strong>📧 Email:</strong> amit.y21c@gmail.com <br>
   <strong>🔗 LinkedIn:</strong> <a href="www.linkedin.com/in/amit-yadav-3408a2308">linkedin.com/in/yourprofile</a>
 </p>
----
+<br>
 ⭐ If you find this repository helpful, please consider giving it a star! <br>
 Happy plotting! 📊📈
