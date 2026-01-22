@@ -1,4 +1,4 @@
-# Python Matplotlib Tutorial
+# Data Visualization Using Python
 
 A comprehensive Jupyter notebook tutorial covering data visualization using Matplotlib, one of the most popular plotting libraries in Python.
 
